@@ -14,7 +14,7 @@ Ini adalah aplikasi web sederhana untuk mengkonversi suhu yang memungkinkan peng
 
 1.  **Kloning repositori atau unduh file:**
     ```bash
-    git clone <https://github.com/revou-fundamental-course/5-feb-24-Rafie1715>
+    git clone https://github.com/revou-fundamental-course/5-feb-24-Rafie1715
     ```
 2.  **Buka `index.html`:**
     Navigasi ke direktori proyek dan buka file `index.html` di browser web Anda.
